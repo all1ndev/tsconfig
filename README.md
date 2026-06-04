@@ -41,10 +41,6 @@ Using this strict TypeScript configuration provides several benefits:
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Author
-
-Andrei Luca (https://luca.md)
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute:
