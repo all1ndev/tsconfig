@@ -1,4 +1,4 @@
-# @allindevelopers/tsconfig
+# @all1ndev/tsconfig
 
 A shareable TypeScript configuration package that provides strict type checking rules to improve code quality and prevent common errors in your TypeScript projects.
 
@@ -9,7 +9,7 @@ This package provides a standardized, strict TypeScript configuration that can b
 ## Installation
 
 ```bash
-npm install --save-dev @allindevelopers/tsconfig
+npm install --save-dev @all1ndev/tsconfig
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ You can extend this configuration in your project's `tsconfig.json`:
 
 ```json
 {
-	"extends": "@allindevelopers/tsconfig/strict.json",
+	"extends": "@all1ndev/tsconfig/strict.json",
 	"compilerOptions": {
 		// Your project-specific compiler options here
 	},

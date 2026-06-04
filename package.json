@@ -1,5 +1,5 @@
 {
-	"name": "@allindevelopers/tsconfig",
+	"name": "@all1ndev/tsconfig",
 	"version": "1.1.0",
 	"description": "A shareable TypeScript configuration package that provides strict type checking rules",
 	"scripts": {
@@ -17,18 +17,18 @@
 		"strict tsconfig",
 		"strict tsconfig.json"
 	],
-	"author": "Andrei Luca (https://luca.md)",
+	"author": "Andrei L (https://all1n.dev/)",
 	"license": "MIT",
 	"type": "module",
 	"devDependencies": {
-		"@allindevelopers/prettier-config": "^1.0.0",
+		"@all1ndev/prettier-config": "^2.0.0",
 		"np": "^10.2.0",
 		"prettier": "^3.5.3",
 		"typescript": "^5.8.3"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/allindevelopers/tsconfig.git"
+		"url": "git+https://github.com/all1ndev/tsconfig.git"
 	},
 	"files": [
 		"strict.json"
