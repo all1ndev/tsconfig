@@ -32,5 +32,8 @@
 	},
 	"files": [
 		"strict.json"
-	]
+	],
+	"publishConfig": {
+		"access": "public"
+	}
 }
